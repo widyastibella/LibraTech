@@ -24,7 +24,7 @@ public class LibraTech {
         adm.addBuku("Marmut Merah Jambu", "Raditya Dika", 987654321, true);
         adm.addBuku("Harry Potter", "J. K. Rowling", 997654321,true);
         adm.addBuku("Kambing Jantan", "Raditya Dika", 943221212, true);
-        agt1.pinjamBuku("Kambing Jantan");
+        //agt1.pinjamBuku("Kambing Jantan");
         
         Scanner scanner = new Scanner(System.in);
         
